@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.App > div {
+  overflow-y: auto;
+}
+
+.text-gray {
+  color: #878787;
+}
+.text-green {
+  color: #388e3c;
+}
